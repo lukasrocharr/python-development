@@ -11,5 +11,11 @@
     "plaintext": false,
     "markdown": false,
     "scminput": false
-  }
+  },
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    "Escreva toda a mensagem de commit em português do Brasil, inclusive o tipo e o corpo. Não use prefixos nem frases em inglês. Preserve nomes próprios e identificadores de código somente quando forem necessários.",
+    "Use o formato 'tipo: resumo' e escolha um tipo em português: recurso, correção, documentação, refatoração, manutenção ou testes.",
+    "Explique as alterações com clareza. Quando houver mudanças relevantes, inclua um corpo após uma linha em branco, descrevendo o que foi alterado, por que foi alterado e qual comportamento ou resultado isso produz.",
+    "Baseie a mensagem apenas nas alterações staged. Não invente motivos, resultados de testes ou efeitos que não possam ser inferidos delas. Para alterações pequenas, mantenha a mensagem concisa sem perder precisão."
+  ]
 }

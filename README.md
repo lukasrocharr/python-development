@@ -2,28 +2,6 @@
 
 Este repositório reúne exercícios e práticas de Python estudadas durante aulas e atividades práticas. O objetivo é reforçar conceitos básicos de programação, como entrada e saída de dados, laços de repetição, validação de valores e cálculos matemáticos.
 
-## Estrutura do projeto
-
-```text
-python-development/
-├── README.md
-├── python fiap/
-│   ├── exercicios aula/
-│   │   └── calc_inteiros.py
-│   └── exercicios praticos/
-│       └── 1. lacos repeticao/
-│           ├── ex1.py
-│           ├── ex2.py
-│           ├── ex3.py
-│           ├── ex4.py
-│           └── ex5.py
-```
-
-## Conteúdo
-
-- `calc_inteiros.py`: exemplo simples de leitura e processamento de valores inteiros.
-- `ex1.py` a `ex5.py`: exercícios sobre laços de repetição e lógica de programação.
-- Práticas de validação de entrada, comparação de valores e cálculos de crescimento populacional.
 
 ## Como executar
 
